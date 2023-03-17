@@ -1,0 +1,15 @@
+/Users/dantealejo/Documents/C#/Retos/plusone/bin/Debug/net7.0/plusone
+/Users/dantealejo/Documents/C#/Retos/plusone/bin/Debug/net7.0/plusone.deps.json
+/Users/dantealejo/Documents/C#/Retos/plusone/bin/Debug/net7.0/plusone.runtimeconfig.json
+/Users/dantealejo/Documents/C#/Retos/plusone/bin/Debug/net7.0/plusone.dll
+/Users/dantealejo/Documents/C#/Retos/plusone/bin/Debug/net7.0/plusone.pdb
+/Users/dantealejo/Documents/C#/Retos/plusone/obj/Debug/net7.0/plusone.csproj.AssemblyReference.cache
+/Users/dantealejo/Documents/C#/Retos/plusone/obj/Debug/net7.0/plusone.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dantealejo/Documents/C#/Retos/plusone/obj/Debug/net7.0/plusone.AssemblyInfoInputs.cache
+/Users/dantealejo/Documents/C#/Retos/plusone/obj/Debug/net7.0/plusone.AssemblyInfo.cs
+/Users/dantealejo/Documents/C#/Retos/plusone/obj/Debug/net7.0/plusone.csproj.CoreCompileInputs.cache
+/Users/dantealejo/Documents/C#/Retos/plusone/obj/Debug/net7.0/plusone.dll
+/Users/dantealejo/Documents/C#/Retos/plusone/obj/Debug/net7.0/refint/plusone.dll
+/Users/dantealejo/Documents/C#/Retos/plusone/obj/Debug/net7.0/plusone.pdb
+/Users/dantealejo/Documents/C#/Retos/plusone/obj/Debug/net7.0/plusone.genruntimeconfig.cache
+/Users/dantealejo/Documents/C#/Retos/plusone/obj/Debug/net7.0/ref/plusone.dll
